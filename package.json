@@ -1,0 +1,31 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "a discord bot for IMDb",
+  "main": "bot.js",
+  "dependencies": {
+    "eris": "^0.6.0",
+    "superagent": "^3.5.2",
+    "rethinkdbdash": "^2.3.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torsina/IMDb.git"
+  },
+  "keywords": [
+    "js",
+    "discord",
+    "bot",
+    "Erys"
+  ],
+  "author": "DumplingsWithToads",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torsina/IMDb/issues"
+  },
+  "homepage": "https://github.com/torsina/IMDb#readme"
+}
